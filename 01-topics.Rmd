@@ -1,6 +1,6 @@
 # Topics {#topics}
 
-The course content is organized in three units:
+The course content is organized in five units:
 
 ```{r topic-flow, fig.align="center", echo=FALSE, fig.asp=0.3, out.width="100%"}
 library(DiagrammeR)
